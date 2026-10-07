@@ -14,7 +14,7 @@ Sedimentation basins are designed as if water moved through them like a plug. In
 
 | | |
 |---|---|
-| **Basin** | Plexiglass model, 526 × 200 × 243 mm, volume 23.46 L |
+| **Basin** | Plexiglass model, volume 23.46 L |
 | **Experiment** | Pulse of methylene blue injected in front of the inlet at a steady flow of 460 mL/min; the run lasted about 175 minutes |
 | **Measurement** | Video of the tracer, analysed frame by frame in FIJI (ImageJ) |
 | **Model** | 3D CFD in ANSYS Fluent: single-phase, laminar, free-slip top surface, no energy equation |
